@@ -8,7 +8,7 @@
 
    ```bash
    git clone https://github.com/F1shez/test-task-three-react.git
-   cd converter-material
+   cd test-task-three-react
    ```
 
 2. Install dependencies:
