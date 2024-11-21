@@ -10,5 +10,5 @@ export default defineConfig({
   build: {
     target: "esnext",
   },
-  base: "/converter-material-pbr/",
+  base: "/test-task-three-react/",
 });
